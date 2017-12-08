@@ -1,4 +1,4 @@
-# Estrutura-de-Dados-_-ED-
+# Estruturas-de-Dados-_-ED-
 
 In this repository There is some Data Structs like:
 
