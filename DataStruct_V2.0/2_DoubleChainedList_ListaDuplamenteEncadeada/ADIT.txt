@@ -28,7 +28,7 @@ Function
     show Inte List ( for Tests )
         ps: if you want to show something especific you have to do your show function.
 
-Draw of Threaded List :: >>
+Draw of Double Chained List :: >>
 
           ______________          _______________
  * ----->|   |      | --|------->|   |       | --|------

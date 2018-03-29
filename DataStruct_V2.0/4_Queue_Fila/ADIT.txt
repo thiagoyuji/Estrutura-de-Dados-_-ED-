@@ -29,7 +29,7 @@ Function
     show init ( for Tests )
         ps: if you want to show something especific you have to do your show function.
 
-Draw of Threaded List :: >>
+Draw of Queue :: >>
 
 
       ___________        ___________        ___________

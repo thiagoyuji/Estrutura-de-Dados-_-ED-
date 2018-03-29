@@ -1,0 +1,47 @@
+ADIT >> Analyse, Draw, Implementation, Test
+
+Stack or ( Pilha ) :: =========================================
+
+( Void * ) :: In this Stack you can Put Any Kind of Data.
+
+    int, int *
+    float, float *
+    double, double *
+    char, char *
+    struct, struct *
+    ...
+
+Function 
+
+    create stack
+    create Cell or Node
+
+    push 
+    pop 
+
+    access top
+
+    check empty stack
+
+    show top ( for Tests )
+        ps: if you want to show something especific you have to do your show function.
+
+Draw of Stack :: >>
+
+ _________      _________        __________            __________
+|_________|    |____6____| Top  |__Push_X__| Top      |__Pop _6__| Top
+|_________|         |               |                    |
+|_________|         |               |                    |
+|_________|         |               |                    |
+|_________|         |               |                    |
+|_________|         |               |                    |
+|____X____|<--------|---------------|                    |
+|____6____|<--------|                                    |
+|____5____|<---------------------------------------------|
+|____4____|
+|____3____|
+|____2____|
+|____1____|
+
+
+Implementation and Test :: >> Files ".c" and ".h"
