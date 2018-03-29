@@ -1,0 +1,39 @@
+ADIT >> Analyse, Draw, Implementation, Test
+
+Threaded List or ( Lista Encadeada ) :: =========================================
+
+( Void * ) :: In this List you can Put Any Kind of Data.
+
+    int, int *
+    float, float *
+    double, double *
+    char, char *
+    struct, struct *
+    ...
+
+Function 
+
+    create List
+    create Cell or Node
+
+    free List
+    free Cell or Node
+
+    insert( begin, end, local );
+    remove( begin, end, local );
+
+    get size
+    search Element
+
+    show Inte List ( for Tests )
+        ps: if you want to show something especific you have to do your show function.
+
+Draw of Threaded List :: >>
+
+          __________          ___________
+ * ----->|      | --|------->|       | --|------
+         |______|___|        |_______|___|     |
+                                              ---
+                                              ---
+
+Implementation and Test :: >> Files ".c" and ".h"

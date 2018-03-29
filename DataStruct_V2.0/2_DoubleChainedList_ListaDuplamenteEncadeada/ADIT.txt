@@ -1,0 +1,40 @@
+ADIT >> Analyse, Draw, Implementation, Test
+
+Double Chained List or ( Lista Duplamente encadeada ) :: =========================================
+
+( Void * ) :: In this List you can Put Any Kind of Data.
+
+    int, int *
+    float, float *
+    double, double *
+    char, char *
+    struct, struct *
+    ...
+
+Function 
+
+    create List
+    create Cell or Node
+
+    free List
+    free Cell or Node
+
+    insert( begin, end, local );
+    remove( begin, end, local );
+
+    get size
+    search Element
+
+    show Inte List ( for Tests )
+        ps: if you want to show something especific you have to do your show function.
+
+Draw of Threaded List :: >>
+
+          ______________          _______________
+ * ----->|   |      | --|------->|   |       | --|------
+         |_|_|______|___|<-------|--_|_______|___|     |
+           |                                          ---
+          ---                                         ---
+          ---
+
+Implementation and Test :: >> Files ".c" and ".h"

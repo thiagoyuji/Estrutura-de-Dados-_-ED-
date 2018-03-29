@@ -1,0 +1,43 @@
+ADIT >> Analyse, Draw, Implementation, Test
+
+Queue or ( Fila ) :: =========================================
+
+( Void * ) :: In this Stack you can Put Any Kind of Data.
+
+    int, int *
+    float, float *
+    double, double *
+    char, char *
+    struct, struct *
+    ...
+
+Function 
+
+    create Queue
+    create Cell or Node
+
+    free Cell
+    free queue 
+
+    push (enter in init)
+    pop ( left in final)
+
+    access init
+
+    check empty queue
+
+    show init ( for Tests )
+        ps: if you want to show something especific you have to do your show function.
+
+Draw of Threaded List :: >>
+
+
+      ___________        ___________        ___________
+*--->|       | --|----->|       | --|----->|       | --|--------|
+     |_______|___|      |_______|___|      |_______|___|        |
+        ^                                                       |
+        |                                                       |
+        |-------------------------------------------------------|
+
+
+Implementation and Test :: >> Files ".c" and ".h"
